@@ -173,7 +173,7 @@ Pioneered custom billing synthesizer algorithms. Created sine and triangle oscil
 
 | Recognition | Details |
 | :--- | :--- |
-| **Hackathon Winner** | Awarded 1st place for building an automated disaster relief routing system. |
+| **Hackathon Winner** | Awarded 1st place for building an AR application that gamifies and visualises the real-time carbon footprint and supply chain  journey of consumer products |
 | **Open Source Contributor** | -|
 
 </div>
