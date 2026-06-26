@@ -44,7 +44,7 @@ minded adaptability to a fast-paced startup team.
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark" />
   </a>
 </p>
 
